@@ -15,3 +15,5 @@
 * install docker using the script above
 * add flag to box
 * in the passwords.txt file add the credentials for a user in box
+* run `docker build -t reproduce-cve-2019-11043 .`
+* run `docker run --rm -ti -p 8080:80 reproduce-cve-2019-11043`
