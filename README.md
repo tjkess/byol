@@ -12,6 +12,6 @@
 
 
 ## steps to create 
-* install docker
+* install docker using the script above
 * add flag to box
 * in the passwords.txt file add the credentials for a user in box
